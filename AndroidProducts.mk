@@ -19,4 +19,5 @@ PRODUCT_MAKEFILES += \
 
 COMMON_LUNCH_CHOICES := \
     lineage_judypn-userdebug \
+    lineage_judypn-user \
     lineage_judypn-eng
